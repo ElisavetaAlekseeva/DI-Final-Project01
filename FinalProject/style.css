@@ -109,7 +109,7 @@ body{
 .since{
     font-size: 20px;
     z-index: 5;
-    /* position: relative; */
+    position: relative;
     bottom: 60px;
     left: 400px;
 
@@ -299,6 +299,7 @@ ul{
 /* ?????????????????????????? */
 .slogan h3{
     text-decoration: underline;
+    text-decoration-color: rgb(98, 94, 94);
 }
 
 .whyReasons{
